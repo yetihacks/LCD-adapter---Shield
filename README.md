@@ -27,4 +27,4 @@ San Francisco
 California, 94105
 USA
 
-The "license" folder within this repository also contains copies of the licences referenced above.
+
